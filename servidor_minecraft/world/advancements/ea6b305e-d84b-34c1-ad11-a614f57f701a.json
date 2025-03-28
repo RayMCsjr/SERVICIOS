@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-03-28 17:02:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-28 16:47:20 +0000"
@@ -77,9 +83,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-28 17:07:30 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-28 16:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-28 17:02:20 +0000"
     },
     "done": true
   },
@@ -101,6 +119,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-28 17:02:17 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-28 16:47:20 +0000"
@@ -116,6 +140,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-28 16:52:03 +0000",
+      "minecraft:forest": "2025-03-28 16:58:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-28 16:47:21 +0000"
     },
     "done": false

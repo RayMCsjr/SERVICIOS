@@ -5821,3 +5821,88 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 17:41:16.025] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
 [28Mar2025 17:41:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Who You Gonna Call?]
 [28Mar2025 17:41:45.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [A Strange Grave Dust]
+[28Mar2025 17:42:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:42:20.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=906, y=69, z=-797} BlockPos{x=907, y=68, z=-797}
+[28Mar2025 17:42:21.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=69, z=-795} BlockPos{x=907, y=68, z=-794}
+[28Mar2025 17:42:53.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Alex's Mobs]
+[28Mar2025 17:43:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[28Mar2025 17:43:47.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Knowledge of Death]
+[28Mar2025 17:43:47.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Mutual Aid]
+[28Mar2025 17:43:55.197] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
+[28Mar2025 17:43:55.205] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[28Mar2025 17:44:00.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Knowledge raises the soul]
+[28Mar2025 17:44:32.601] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
+[28Mar2025 17:44:32.611] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[28Mar2025 17:44:42.355] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[28Mar2025 17:44:42.362] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[28Mar2025 17:44:48.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Easter Egg Searcher]
+[28Mar2025 17:44:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from slayer_np]
+[28Mar2025 17:44:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from 3 targets]
+[28Mar2025 17:45:38.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Stone Age]
+[28Mar2025 17:45:51.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Acquire Hardware]
+[28Mar2025 17:49:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 10.0 damage to edinson123pro]
+[28Mar2025 17:50:07.064] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[28Mar2025 17:50:07.064] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[28Mar2025 17:50:07.064] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[28Mar2025 17:50:07.064] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[28Mar2025 17:50:07.221] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[28Mar2025 17:50:07.222] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[28Mar2025 17:50:07.222] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[28Mar2025 17:50:07.223] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[28Mar2025 17:50:07.223] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[28Mar2025 17:50:07.224] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[28Mar2025 17:50:07.224] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[28Mar2025 17:50:07.232] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[28Mar2025 17:50:19.079] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[28Mar2025 17:50:19.079] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[28Mar2025 17:50:19.080] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[28Mar2025 17:50:19.080] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[28Mar2025 17:50:19.190] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[28Mar2025 17:50:19.190] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[28Mar2025 17:50:19.190] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[28Mar2025 17:50:19.190] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[28Mar2025 17:50:19.190] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[28Mar2025 17:50:19.196] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[28Mar2025 17:50:34.342] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Mar2025 17:50:34.342] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Mar2025 17:50:34.342] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Mar2025 17:50:34.342] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Mar2025 17:50:34.478] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Mar2025 17:50:34.478] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Mar2025 17:50:34.478] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Mar2025 17:50:34.479] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Mar2025 17:50:34.557] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Mar2025 17:50:34.558] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Mar2025 17:50:34.558] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Mar2025 17:50:34.558] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Mar2025 17:50:34.567] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Mar2025 17:50:34.568] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Mar2025 17:50:34.568] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Mar2025 17:50:34.568] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Mar2025 17:50:34.583] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Mar2025 17:50:34.583] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Mar2025 17:50:34.583] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Mar2025 17:50:34.583] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Mar2025 17:50:34.600] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Mar2025 17:50:34.600] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Mar2025 17:50:34.600] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Mar2025 17:50:34.600] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Mar2025 17:50:34.723] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Mar2025 17:50:34.724] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Mar2025 17:50:34.724] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Mar2025 17:50:34.724] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Mar2025 17:51:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Isn't It Iron Pick]
+[28Mar2025 17:52:11.873] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=1269, y=75, z=-1131}
+[28Mar2025 17:52:13.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro moved too quickly! 1.1753492299471873,-15.778842749708872,-0.4686531514762464
+[28Mar2025 17:52:13.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np moved too quickly! 1.2661625908833685,-16.004313807115437,-0.1736235768316874
+[28Mar2025 17:52:15.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[28Mar2025 17:52:15.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np moved too quickly! 1.4510889383445829,-10.34236673505356,-1.889468940851998
+[28Mar2025 17:52:15.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro moved too quickly! 1.1624668136175842,-10.572894103966519,1.5924850936627308
+[28Mar2025 17:52:16.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np was kicked for floating too long!
+[28Mar2025 17:52:16.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np lost connection: Disconnected
+[28Mar2025 17:52:16.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np left the game
+[28Mar2025 17:52:16.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro was kicked for floating too long!
+[28Mar2025 17:52:16.514] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Mar2025 17:52:16.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Flying is not enabled on this server
+[28Mar2025 17:52:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[28Mar2025 17:52:16.966] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1051, y=73, z=-1131}

@@ -29,6 +29,12 @@
     },
     "done": false
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-28 17:51:58 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-03-28 17:37:02 +0000"
@@ -50,6 +56,18 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-03-28 17:37:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-28 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-28 17:52:21 +0000"
     },
     "done": true
   },
@@ -107,6 +125,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-28 17:54:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-28 17:43:13 +0000"
@@ -135,6 +159,7 @@
     "criteria": {
       "minecraft:river": "2025-03-28 17:42:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-28 17:37:03 +0000",
+      "minecraft:savanna": "2025-03-28 17:50:24 +0000",
       "minecraft:plains": "2025-03-28 17:41:02 +0000"
     },
     "done": false
@@ -160,6 +185,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-28 17:45:06 +0000",
+      "cooked_beef": "2025-03-28 17:49:17 +0000",
       "bread": "2025-03-28 17:43:17 +0000",
       "rotten_flesh": "2025-03-28 17:42:46 +0000"
     },

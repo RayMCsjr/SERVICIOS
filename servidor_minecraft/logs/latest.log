@@ -5600,3 +5600,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 16:50:20.523] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2610, l='ServerLevel[world]', x=354.50, y=73.00, z=-108.50]
 [28Mar2025 16:50:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made slayer_np a server operator
 [28Mar2025 16:50:36.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2656, l='ServerLevel[world]', x=374.50, y=76.00, z=-70.50]
+[28Mar2025 16:50:41.973] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2668, l='ServerLevel[world]', x=308.50, y=73.00, z=-238.50]
+[28Mar2025 16:50:44.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> xd
+[28Mar2025 16:51:32.572] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2813, l='ServerLevel[world]', x=288.50, y=74.00, z=-244.50]
+[28Mar2025 16:52:00.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Easter Egg Searcher]
+[28Mar2025 16:52:06.340] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2903, l='ServerLevel[world]', x=353.50, y=73.00, z=-110.50]
+[28Mar2025 16:52:47.921] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3034, l='ServerLevel[world]', x=348.50, y=73.00, z=-109.50]
+[28Mar2025 16:53:24.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3126, l='ServerLevel[world]', x=302.50, y=69.00, z=-157.50]
+[28Mar2025 16:53:30.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3150, l='ServerLevel[world]', x=354.50, y=73.00, z=-110.50]
+[28Mar2025 16:53:54.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3224, l='ServerLevel[world]', x=302.50, y=69.00, z=-155.50]
+[28Mar2025 16:54:16.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3272, l='ServerLevel[world]', x=372.50, y=76.00, z=-72.50]
+[28Mar2025 16:54:49.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3374, l='ServerLevel[world]', x=304.50, y=69.00, z=-157.50]
+[28Mar2025 16:56:00.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3563, l='ServerLevel[world]', x=365.50, y=74.00, z=-87.50]
+[28Mar2025 16:56:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Stone Age]
+[28Mar2025 16:56:28.472] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3638, l='ServerLevel[world]', x=373.50, y=76.00, z=-70.50]
+[28Mar2025 16:56:30.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Getting an Upgrade]
+[28Mar2025 16:56:31.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3646, l='ServerLevel[world]', x=290.50, y=74.00, z=-244.50]
+[28Mar2025 16:56:37.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Alex's Mobs]
+[28Mar2025 16:56:54.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=366, y=70, z=-186}
+[28Mar2025 16:56:55.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=366, y=69, z=-187}
+[28Mar2025 16:57:12.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=366, y=64, z=-187}
+[28Mar2025 16:57:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Easter Egg Searcher]
+[28Mar2025 16:57:30.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3879, l='ServerLevel[world]', x=290.50, y=74.00, z=-243.50]
+[28Mar2025 16:57:30.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=350, y=62, z=-174}
+[28Mar2025 16:57:36.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=350, y=62, z=-175}
+[28Mar2025 16:57:36.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=349, y=62, z=-175}
+[28Mar2025 16:57:36.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=349, y=62, z=-175}
+[28Mar2025 16:57:37.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=350, y=62, z=-174}
+[28Mar2025 16:58:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Stone Age]
+[28Mar2025 16:59:29.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Getting an Upgrade]
+[28Mar2025 16:59:31.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4616, l='ServerLevel[world]', x=288.50, y=74.00, z=-243.50]
+[28Mar2025 17:00:47.832] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[28Mar2025 17:00:47.920] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved

@@ -7864,3 +7864,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [28Mar2025 18:11:39.043] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
 [28Mar2025 18:12:12.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np lost connection: Disconnected
 [28Mar2025 18:12:12.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np left the game
+[28Mar2025 18:13:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Who You Gonna Call?]
+[28Mar2025 18:16:00.275] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Mar2025 18:16:00.275] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Mar2025 18:16:00.275] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Mar2025 18:16:00.276] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Mar2025 18:17:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [This Must be a Sign!]
+[28Mar2025 18:18:16.439] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[28Mar2025 18:18:16.453] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[28Mar2025 18:18:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Ghost
+[28Mar2025 18:23:24.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41322, l='ServerLevel[world]', x=1119.50, y=74.00, z=-808.50]
+[28Mar2025 18:23:46.973] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41533, l='ServerLevel[world]', x=1152.50, y=69.00, z=-834.50]
+[28Mar2025 18:29:04.270] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44101, l='ServerLevel[world]', x=1286.50, y=73.00, z=-907.50]

@@ -237,6 +237,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-03-28 17:40:22 +0000",
+      "minecraft:slime": "2025-03-28 18:25:32 +0000",
       "minecraft:husk": "2025-03-28 17:55:32 +0000",
       "minecraft:enderman": "2025-03-28 17:24:28 +0000",
       "minecraft:zombie": "2025-03-28 17:15:12 +0000"
@@ -297,6 +298,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-28 18:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-28 17:56:45 +0000"
@@ -327,9 +334,21 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "indigo": "2025-03-28 18:25:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-28 18:07:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-28 18:13:32 +0000"
     },
     "done": true
   },

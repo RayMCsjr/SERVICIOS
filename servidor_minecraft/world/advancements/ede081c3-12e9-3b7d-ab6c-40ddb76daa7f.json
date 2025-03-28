@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-28 17:20:17 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-03-28 16:49:26 +0000"
@@ -133,6 +139,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:enderman": "2025-03-28 17:24:28 +0000",
       "minecraft:zombie": "2025-03-28 17:15:12 +0000"
     },
     "done": false
@@ -140,6 +147,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-28 16:49:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-28 17:23:10 +0000"
     },
     "done": true
   },

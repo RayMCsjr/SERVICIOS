@@ -29,9 +29,21 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-28 17:35:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-28 17:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-28 17:33:41 +0000"
     },
     "done": true
   },
@@ -179,7 +191,8 @@
       "minecraft:river": "2025-03-28 16:52:03 +0000",
       "minecraft:forest": "2025-03-28 16:58:33 +0000",
       "minecraft:ocean": "2025-03-28 17:10:38 +0000",
-      "minecraft:old_growth_birch_forest": "2025-03-28 16:47:21 +0000"
+      "minecraft:old_growth_birch_forest": "2025-03-28 16:47:21 +0000",
+      "minecraft:plains": "2025-03-28 17:28:50 +0000"
     },
     "done": false
   },
@@ -200,6 +213,12 @@
       "requirement": "2025-03-28 16:47:20 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-03-28 17:31:29 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {

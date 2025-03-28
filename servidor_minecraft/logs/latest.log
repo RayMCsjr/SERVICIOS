@@ -5755,3 +5755,69 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 17:30:50.273] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16162, l='ServerLevel[world]', x=841.50, y=79.00, z=-598.50]
 [28Mar2025 17:31:17.773] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16470, l='ServerLevel[world]', x=943.50, y=81.00, z=-584.50]
 [28Mar2025 17:31:49.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16655, l='ServerLevel[world]', x=758.50, y=73.00, z=-538.50]
+[28Mar2025 17:32:44.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16849, l='ServerLevel[world]', x=963.50, y=70.00, z=-546.50]
+[28Mar2025 17:33:14.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Isn't It Iron Pick]
+[28Mar2025 17:33:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Isn't It Iron Pick]
+[28Mar2025 17:35:18.973] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17471, l='ServerLevel[world]', x=844.50, y=78.00, z=-574.50]
+[28Mar2025 17:35:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Suit Up]
+[28Mar2025 17:35:34.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17510, l='ServerLevel[world]', x=962.50, y=69.00, z=-522.50]
+[28Mar2025 17:35:46.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <edinson123pro> espra
+[28Mar2025 17:35:49.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17589, l='ServerLevel[world]', x=962.50, y=72.00, z=-535.50]
+[28Mar2025 17:35:55.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to edinson123pro]
+[28Mar2025 17:35:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:36:02.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17638, l='ServerLevel[world]', x=976.50, y=83.00, z=-590.50]
+[28Mar2025 17:36:12.072] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17665, l='ServerLevel[world]', x=984.50, y=72.00, z=-554.50]
+[28Mar2025 17:36:50.981] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Mar2025 17:36:50.983] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Mar2025 17:36:51.020] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Mar2025 17:36:51.073] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Mar2025 17:36:51.118] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Mar2025 17:36:51.170] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Mar2025 17:36:51.217] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Mar2025 17:36:51.268] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Mar2025 17:36:51.317] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Mar2025 17:36:51.367] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Mar2025 17:36:51.418] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Mar2025 17:36:51.467] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Mar2025 17:36:52.381] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Mar2025 17:36:52.382] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Mar2025 17:36:52.386] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Mar2025 17:36:52.394] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Mar2025 17:36:53.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17765, l='ServerLevel[world]', x=984.50, y=72.00, z=-553.50]
+[28Mar2025 17:37:02.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkJunior[/100.71.138.83:56365] logged in with entity id 17795 at (357.5, 63.0, -175.5)
+[28Mar2025 17:37:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior joined the game
+[28Mar2025 17:37:02.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has reached the goal [Easter]
+[28Mar2025 17:37:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has completed the challenge [The Undead]
+[28Mar2025 17:37:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Ice and Fire]
+[28Mar2025 17:37:20.774] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18039, l='ServerLevel[world]', x=976.50, y=83.00, z=-589.50]
+[28Mar2025 17:37:32.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18520, l='ServerLevel[world]', x=352.50, y=73.00, z=-110.50]
+[28Mar2025 17:37:37.074] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18565, l='ServerLevel[world]', x=978.50, y=83.00, z=-590.50]
+[28Mar2025 17:37:45.572] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18610, l='ServerLevel[world]', x=352.50, y=73.00, z=-109.50]
+[28Mar2025 17:38:12.575] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18766, l='ServerLevel[world]', x=961.50, y=72.00, z=-535.50]
+[28Mar2025 17:38:13.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18773, l='ServerLevel[world]', x=303.50, y=69.00, z=-157.50]
+[28Mar2025 17:38:29.626] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18850, l='ServerLevel[world]', x=429.50, y=74.00, z=-104.50]
+[28Mar2025 17:38:56.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19066, l='ServerLevel[world]', x=357.50, y=80.00, z=-60.50]
+[28Mar2025 17:39:06.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19158, l='ServerLevel[world]', x=367.50, y=74.00, z=-86.50]
+[28Mar2025 17:39:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Not Today, Thank You]
+[28Mar2025 17:39:57.755] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19627, l='ServerLevel[world]', x=290.50, y=74.00, z=-245.50]
+[28Mar2025 17:40:03.355] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19656, l='ServerLevel[world]', x=353.50, y=73.00, z=-108.50]
+[28Mar2025 17:40:26.903] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19851, l='ServerLevel[world]', x=349.50, y=73.00, z=-108.50]
+[28Mar2025 17:40:46.318] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20041, l='ServerLevel[world]', x=978.50, y=83.00, z=-589.50]
+[28Mar2025 17:40:59.144] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[28Mar2025 17:41:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported DarkJunior to slayer_np]
+[28Mar2025 17:41:02.161] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[28Mar2025 17:41:02.161] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[28Mar2025 17:41:02.161] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[28Mar2025 17:41:02.162] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[28Mar2025 17:41:02.162] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[28Mar2025 17:41:02.162] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[28Mar2025 17:41:02.162] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[28Mar2025 17:41:02.162] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[28Mar2025 17:41:02.182] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[28Mar2025 17:41:16.024] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[28Mar2025 17:41:16.024] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[28Mar2025 17:41:16.025] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[28Mar2025 17:41:16.025] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[28Mar2025 17:41:16.025] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[28Mar2025 17:41:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Who You Gonna Call?]
+[28Mar2025 17:41:45.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [A Strange Grave Dust]

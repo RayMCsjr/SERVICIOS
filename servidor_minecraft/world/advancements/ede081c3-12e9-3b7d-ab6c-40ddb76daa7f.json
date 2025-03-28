@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-28 17:33:14 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-03-28 16:49:26 +0000"
@@ -174,7 +180,8 @@
       "minecraft:river": "2025-03-28 17:13:17 +0000",
       "minecraft:forest": "2025-03-28 16:58:38 +0000",
       "minecraft:ocean": "2025-03-28 17:12:19 +0000",
-      "minecraft:old_growth_birch_forest": "2025-03-28 16:49:27 +0000"
+      "minecraft:old_growth_birch_forest": "2025-03-28 16:49:27 +0000",
+      "minecraft:plains": "2025-03-28 17:28:59 +0000"
     },
     "done": false
   },

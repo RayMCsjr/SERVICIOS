@@ -5641,3 +5641,72 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 17:10:05.242] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
 [28Mar2025 17:10:05.257] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
 [28Mar2025 17:10:14.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:12:04.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to edinson123pro]
+[28Mar2025 17:12:09.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:12:22.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.33080245416761045
+[28Mar2025 17:12:22.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.4622181934805667
+[28Mar2025 17:12:22.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.7455485012326335
+[28Mar2025 17:12:22.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.9326697001022239
+[28Mar2025 17:12:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Best Friends Forever]
+[28Mar2025 17:12:50.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Free Willy]
+[28Mar2025 17:12:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Best Friends Forever]
+[28Mar2025 17:12:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Free Willy]
+[28Mar2025 17:13:26.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.2890931397563463
+[28Mar2025 17:13:27.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.3454634358635076
+[28Mar2025 17:13:27.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.35103582914894105
+[28Mar2025 17:13:30.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.28397749193891286
+[28Mar2025 17:13:30.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.3340504537314928
+[28Mar2025 17:13:30.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.3879212930378344
+[28Mar2025 17:13:32.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.30028715875221224
+[28Mar2025 17:13:32.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of slayer_np) moved wrongly! 0.4230282661584397
+[28Mar2025 17:13:58.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8938, l='ServerLevel[world]', x=757.50, y=73.00, z=-540.50]
+[28Mar2025 17:14:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Ice Bucket Challenge]
+[28Mar2025 17:14:18.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Amateur Archaeologist]
+[28Mar2025 17:14:23.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=49, z=-492} BlockPos{x=848, y=50, z=-492}
+[28Mar2025 17:14:44.223] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Mar2025 17:15:10.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Knowledge of Death]
+[28Mar2025 17:15:10.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Stolen Magic]
+[28Mar2025 17:15:12.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Monster Hunter]
+[28Mar2025 17:16:03.723] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9895, l='ServerLevel[world]', x=832.50, y=74.00, z=-585.50]
+[28Mar2025 17:16:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Monster Hunter]
+[28Mar2025 17:16:27.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10128, l='ServerLevel[world]', x=741.50, y=69.00, z=-652.50]
+[28Mar2025 17:16:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from slayer_np]
+[28Mar2025 17:17:22.922] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10918, l='ServerLevel[world]', x=752.50, y=69.00, z=-669.50]
+[28Mar2025 17:18:01.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11446, l='ServerLevel[world]', x=814.50, y=73.00, z=-570.50]
+[28Mar2025 17:18:02.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11447, l='ServerLevel[world]', x=841.50, y=79.00, z=-600.50]
+[28Mar2025 17:18:12.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11618, l='ServerLevel[world]', x=834.50, y=74.00, z=-583.50]
+[28Mar2025 17:18:34.023] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11694, l='ServerLevel[world]', x=940.50, y=83.00, z=-570.50]
+[28Mar2025 17:18:54.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11904, l='ServerLevel[world]', x=766.50, y=72.00, z=-637.50]
+[28Mar2025 17:19:28.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12203, l='ServerLevel[world]', x=765.50, y=72.00, z=-637.50]
+[28Mar2025 17:19:37.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12244, l='ServerLevel[world]', x=760.50, y=72.00, z=-553.50]
+[28Mar2025 17:19:49.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12339, l='ServerLevel[world]', x=758.50, y=74.00, z=-559.50]
+[28Mar2025 17:19:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Ashes 'n Bones]
+[28Mar2025 17:19:59.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:20:02.523] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12503, l='ServerLevel[world]', x=745.50, y=73.00, z=-563.50]
+[28Mar2025 17:20:06.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12545, l='ServerLevel[world]', x=756.50, y=77.00, z=-603.50]
+[28Mar2025 17:20:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:20:15.173] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12576, l='ServerLevel[world]', x=740.50, y=69.00, z=-654.50]
+[28Mar2025 17:20:15.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to edinson123pro]
+[28Mar2025 17:20:17.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Acquire Hardware]
+[28Mar2025 17:20:20.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12603, l='ServerLevel[world]', x=746.50, y=70.00, z=-661.50]
+[28Mar2025 17:20:20.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12604, l='ServerLevel[world]', x=828.50, y=73.00, z=-603.50]
+[28Mar2025 17:20:27.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12637, l='ServerLevel[world]', x=828.50, y=73.00, z=-604.50]
+[28Mar2025 17:20:33.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12682, l='ServerLevel[world]', x=766.50, y=74.00, z=-620.50]
+[28Mar2025 17:20:35.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12688, l='ServerLevel[world]', x=938.50, y=83.00, z=-569.50]
+[28Mar2025 17:20:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[28Mar2025 17:20:36.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12689, l='ServerLevel[world]', x=766.50, y=72.00, z=-639.50]
+[28Mar2025 17:20:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[28Mar2025 17:20:42.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:20:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to edinson123pro]
+[28Mar2025 17:21:09.871] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12859, l='ServerLevel[world]', x=908.50, y=73.00, z=-566.50]
+[28Mar2025 17:21:11.611] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[28Mar2025 17:21:11.678] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[28Mar2025 17:21:12.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12875, l='ServerLevel[world]', x=755.50, y=77.00, z=-601.50]
+[28Mar2025 17:21:23.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:21:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to edinson123pro]
+[28Mar2025 17:21:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to edinson123pro]
+[28Mar2025 17:21:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[28Mar2025 17:21:33.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12960, l='ServerLevel[world]', x=754.50, y=69.00, z=-668.50]
+[28Mar2025 17:21:35.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Removed every effect from 2 targets]
+[28Mar2025 17:21:37.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12990, l='ServerLevel[world]', x=906.50, y=73.00, z=-566.50]
+[28Mar2025 17:21:48.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13055, l='ServerLevel[world]', x=765.50, y=74.00, z=-621.50]

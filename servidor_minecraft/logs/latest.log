@@ -1186,3 +1186,117 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Mar2025 04:33:28.552] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
 [29Mar2025 04:33:28.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied 20.0 damage to DarkJunior
 [29Mar2025 04:33:28.607] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[29Mar2025 04:34:49.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Knowledge raises the soul]
+[29Mar2025 04:35:35.212] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[29Mar2025 04:35:35.212] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[29Mar2025 04:35:35.326] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[29Mar2025 04:35:35.327] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[29Mar2025 04:35:35.329] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[29Mar2025 04:35:35.351] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[29Mar2025 04:35:35.410] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[29Mar2025 04:35:35.447] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[29Mar2025 04:35:35.607] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[29Mar2025 04:35:35.608] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[29Mar2025 04:35:35.615] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[29Mar2025 04:35:35.638] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[29Mar2025 04:35:36.873] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[29Mar2025 04:35:36.874] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[29Mar2025 04:35:36.885] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[29Mar2025 04:35:36.905] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[29Mar2025 04:35:52.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: slayer_np[/100.121.90.55:51434] logged in with entity id 11981 at (1104.5051794534445, 65.0, -1082.9710738501951)
+[29Mar2025 04:35:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np joined the game
+[29Mar2025 04:36:47.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> 5 años
+[29Mar2025 04:36:56.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> que necesitan hijos
+[29Mar2025 04:37:17.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied 10.0 damage to DarkJunior]
+[29Mar2025 04:37:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> ?
+[29Mar2025 04:37:37.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Mar2025 04:37:40.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> ya empesamos
+[29Mar2025 04:37:41.573] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[29Mar2025 04:37:41.607] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved
+[29Mar2025 04:37:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> help?
+[29Mar2025 04:37:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> a mi
+[29Mar2025 04:37:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> yo me mori
+[29Mar2025 04:38:01.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> edinson123pro estas?
+[29Mar2025 04:38:07.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Mar2025 04:38:09.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> bueno gg me mori
+[29Mar2025 04:38:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[29Mar2025 04:38:24.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Mar2025 04:38:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[29Mar2025 04:38:45.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Mar2025 04:38:46.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> ayudaaa
+[29Mar2025 04:38:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> no tengo comida
+[29Mar2025 04:39:04.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[29Mar2025 04:39:06.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Mar2025 04:39:13.218] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[29Mar2025 04:39:13.262] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[29Mar2025 04:39:26.501] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
+[29Mar2025 04:39:26.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Mar2025 04:39:26.593] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[29Mar2025 04:39:30.105] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[29Mar2025 04:39:30.160] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[29Mar2025 04:39:42.242] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[29Mar2025 04:39:42.252] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[29Mar2025 04:39:48.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> q pasaaa
+[29Mar2025 04:39:48.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Mar2025 04:39:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[29Mar2025 04:39:53.683] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[29Mar2025 04:39:53.765] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[29Mar2025 04:39:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[29Mar2025 04:39:58.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> no tengo comida
+[29Mar2025 04:40:13.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Mar2025 04:40:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> no tengo comida
+[29Mar2025 04:40:23.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported DarkJunior to slayer_np]
+[29Mar2025 04:40:29.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[29Mar2025 04:40:29.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13231, l='ServerLevel[world]', x=1239.24, y=69.00, z=-1292.97] died, message: 'Farmer was slain by Zombie'
+[29Mar2025 04:40:32.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> pls
+[29Mar2025 04:40:33.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> medio cora
+[29Mar2025 04:40:37.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> aca hay una aldea
+[29Mar2025 04:40:54.531] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
+[29Mar2025 04:40:54.543] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[29Mar2025 04:41:07.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> ven aqui
+[29Mar2025 04:41:09.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior was slain by The Immortal
+[29Mar2025 04:41:18.785] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[29Mar2025 04:41:18.795] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved
+[29Mar2025 04:41:19.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [A Strange Grave Dust]
+[29Mar2025 04:41:22.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> xd
+[29Mar2025 04:41:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Monster Hunter]
+[29Mar2025 04:41:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:41:48.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> tengo 3
+[29Mar2025 04:41:55.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:41:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> donde estas
+[29Mar2025 04:42:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:42:07.894] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
+[29Mar2025 04:42:07.913] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved
+[29Mar2025 04:42:23.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:43:16.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> toma
+[29Mar2025 04:43:38.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> y
+[29Mar2025 04:43:39.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> o
+[29Mar2025 04:44:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> ?
+[29Mar2025 04:44:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> de l anada
+[29Mar2025 04:45:15.530] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[29Mar2025 04:45:15.539] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[29Mar2025 04:45:24.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:45:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:45:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:45:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:46:11.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to slayer_np]
+[29Mar2025 04:46:24.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Strength to slayer_np]
+[29Mar2025 04:46:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> hh
+[29Mar2025 04:46:54.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> gg
+[29Mar2025 04:47:52.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/13375, l='ServerLevel[world]', x=1298.82, y=71.00, z=-1301.28] died, message: 'Beekeeper died whilst trying to escape The Spitter'
+[29Mar2025 04:48:04.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13502, l='ServerLevel[world]', x=1298.02, y=69.94, z=-1286.38] died, message: 'Farmer died whilst trying to escape The Spitter'
+[29Mar2025 04:50:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> ?
+[29Mar2025 04:50:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [Chest Slayer]
+[29Mar2025 04:51:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[29Mar2025 04:52:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[29Mar2025 04:52:53.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> xd
+[29Mar2025 04:53:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> donde esat
+[29Mar2025 04:53:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> estyot en una mina
+[29Mar2025 04:53:28.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Mar2025 04:53:48.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[29Mar2025 04:53:50.201] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[29Mar2025 04:53:50.219] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[29Mar2025 04:54:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to DarkJunior]
+[29Mar2025 04:54:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Zombie]
+[29Mar2025 04:54:14.042] [Server thread/WARN] [tombstone/]: The death event of the player DarkJunior was canceled by another mod
+[29Mar2025 04:54:14.098] [Server thread/INFO] [tombstone/]: The player DarkJunior has successfully been saved

@@ -140,6 +140,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-03-29 04:40:53 +0000",
+      "minecraft:birch_forest": "2025-04-01 19:19:27 +0000",
+      "minecraft:savanna_plateau": "2025-04-01 19:25:24 +0000",
       "minecraft:beach": "2025-03-28 17:08:50 +0000",
       "minecraft:river": "2025-03-28 16:52:03 +0000",
       "minecraft:forest": "2025-03-28 16:58:33 +0000",
@@ -413,6 +415,12 @@
   "undead_revamp2:mommy": {
     "criteria": {
       "mommy": "2025-04-01 18:07:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-04-01 19:23:26 +0000"
     },
     "done": true
   },

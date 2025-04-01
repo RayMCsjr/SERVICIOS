@@ -1303,3 +1303,522 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Apr2025 18:59:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Nuclear Bomb]
 [01Apr2025 18:59:48.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Nuclear Bomb]
 [01Apr2025 18:59:51.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[01Apr2025 19:00:24.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18283ms or 365 ticks behind
+[01Apr2025 19:00:46.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7265ms or 145 ticks behind
+[01Apr2025 19:01:07.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5649ms or 112 ticks behind
+[01Apr2025 19:01:27.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5285ms or 105 ticks behind
+[01Apr2025 19:01:31.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/4247, l='ServerLevel[world]', x=1292.30, y=70.00, z=-1294.22] died, message: 'Beekeeper was killed'
+[01Apr2025 19:01:31.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4290, l='ServerLevel[world]', x=1322.03, y=66.00, z=-1284.02] died, message: 'Nitwit was killed'
+[01Apr2025 19:01:31.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/4292, l='ServerLevel[world]', x=1293.57, y=83.50, z=-1331.85] died, message: 'Beekeeper was killed'
+[01Apr2025 19:01:31.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/4322, l='ServerLevel[world]', x=1296.45, y=86.50, z=-1344.49] died, message: 'Toolsmith was killed'
+[01Apr2025 19:01:31.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/4323, l='ServerLevel[world]', x=1351.30, y=64.94, z=-1316.42] died, message: 'Cleric was killed'
+[01Apr2025 19:01:31.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4340, l='ServerLevel[world]', x=1297.09, y=86.00, z=-1380.32] died, message: 'Villager was killed'
+[01Apr2025 19:01:31.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4376, l='ServerLevel[world]', x=1247.98, y=78.00, z=-1298.98] died, message: 'Villager was killed'
+[01Apr2025 19:01:31.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/4377, l='ServerLevel[world]', x=1295.23, y=71.00, z=-1282.50] died, message: 'Cartographer was killed'
+[01Apr2025 19:01:31.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/4414, l='ServerLevel[world]', x=1249.79, y=79.00, z=-1349.71] died, message: 'Scribe was killed'
+[01Apr2025 19:01:31.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/4423, l='ServerLevel[world]', x=1300.62, y=79.00, z=-1313.70] died, message: 'Scribe was killed'
+[01Apr2025 19:01:31.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4435, l='ServerLevel[world]', x=1291.57, y=79.00, z=-1307.44] died, message: 'Villager was killed'
+[01Apr2025 19:01:31.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4450, l='ServerLevel[world]', x=1282.49, y=74.50, z=-1292.57] died, message: 'Villager was killed'
+[01Apr2025 19:01:31.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4451, l='ServerLevel[world]', x=1283.12, y=74.50, z=-1292.24] died, message: 'Villager was killed'
+[01Apr2025 19:01:31.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4453, l='ServerLevel[world]', x=1304.78, y=70.00, z=-1287.77] died, message: 'Farmer was killed'
+[01Apr2025 19:01:31.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/4456, l='ServerLevel[world]', x=1280.36, y=83.00, z=-1353.51] died, message: 'Beekeeper was killed'
+[01Apr2025 19:01:31.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4458, l='ServerLevel[world]', x=1247.39, y=91.00, z=-1367.30] died, message: 'Nitwit was killed'
+[01Apr2025 19:01:32.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/4482, l='ServerLevel[world]', x=1314.90, y=66.00, z=-1263.86] died, message: 'Cartographer was killed'
+[01Apr2025 19:01:32.100] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[01Apr2025 19:01:32.104] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:01:32.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15853, l='ServerLevel[world]', x=1240.30, y=79.05, z=-1349.49] died, message: 'Villager was killed'
+[01Apr2025 19:01:32.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15854, l='ServerLevel[world]', x=1238.55, y=78.00, z=-1352.01] died, message: 'Villager was killed'
+[01Apr2025 19:01:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Killed 4287 entities]
+[01Apr2025 19:01:32.353] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:01:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:01:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[01Apr2025 19:03:32.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:03:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:03:55.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:03:58.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:03:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:03:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:04:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Nuclear Bomb]
+[01Apr2025 19:04:16.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:04:19.724] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:04:19.733] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:04:21.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was reduced to atoms
+[01Apr2025 19:04:21.064] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:04:44.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:04:49.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro moved wrongly!
+[01Apr2025 19:04:50.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro moved wrongly!
+[01Apr2025 19:04:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:04:55.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[01Apr2025 19:05:07.568] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[01Apr2025 19:05:07.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Killed 963 entities]
+[01Apr2025 19:05:07.648] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved
+[01Apr2025 19:05:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:05:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:06:52.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:07:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:07:11.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:07:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:07:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[01Apr2025 19:07:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[01Apr2025 19:07:26.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:07:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:07:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:07:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Brainiac]
+[01Apr2025 19:07:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:08:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[01Apr2025 19:10:00.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:11:01.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:11:14.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:11:16.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:12:33.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:13:00.781] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 12858 ms
+[01Apr2025 19:13:00.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12831ms or 256 ticks behind
+[01Apr2025 19:13:00.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro moved too quickly! -8.683578103576792,-1.8391945580851399,-4.889494131833999
+[01Apr2025 19:13:00.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np moved too quickly! 9.217194172400013,-1.8232407249357578,3.7084463195319586
+[01Apr2025 19:13:58.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:14:00.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:14:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:14:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:14:33.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> -1409 73 -6594
+[01Apr2025 19:15:02.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:15:15.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:15:17.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[01Apr2025 19:17:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:17:35.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:17:42.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Chest Boat]
+[01Apr2025 19:18:29.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37403845881397046
+[01Apr2025 19:18:29.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2828836860121555
+[01Apr2025 19:18:29.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7677300435967709
+[01Apr2025 19:18:29.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.4649033364112256
+[01Apr2025 19:18:29.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 1.162039938920202
+[01Apr2025 19:18:30.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.375732209811531
+[01Apr2025 19:18:30.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3762337018190465
+[01Apr2025 19:18:30.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.42839847113509677
+[01Apr2025 19:18:30.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37670201703645034
+[01Apr2025 19:18:30.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3770003388983696
+[01Apr2025 19:18:30.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3773316071591353
+[01Apr2025 19:18:30.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7738837417006152
+[01Apr2025 19:18:30.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37750252677710705
+[01Apr2025 19:18:30.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.25277881918475487
+[01Apr2025 19:18:30.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37755137889371326
+[01Apr2025 19:18:30.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.25759425970011307
+[01Apr2025 19:18:30.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3773004331909533
+[01Apr2025 19:18:30.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2621840499650716
+[01Apr2025 19:18:30.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3768604225758736
+[01Apr2025 19:18:30.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2676404497673275
+[01Apr2025 19:18:30.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37659921638748983
+[01Apr2025 19:18:30.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2709766298330578
+[01Apr2025 19:18:30.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3760033960634246
+[01Apr2025 19:18:30.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2742349851457675
+[01Apr2025 19:18:30.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37524632630231736
+[01Apr2025 19:18:30.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2784904597425566
+[01Apr2025 19:18:30.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3747797302463596
+[01Apr2025 19:18:30.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.28074623928557685
+[01Apr2025 19:18:30.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3739699161004637
+[01Apr2025 19:18:30.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2830299021218252
+[01Apr2025 19:18:30.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3730287492919615
+[01Apr2025 19:18:30.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.28640796724857864
+[01Apr2025 19:18:30.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37246622195857526
+[01Apr2025 19:18:30.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2878742943563566
+[01Apr2025 19:18:30.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37155937063141664
+[01Apr2025 19:18:30.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.5961133577409328
+[01Apr2025 19:18:30.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37054590563388956
+[01Apr2025 19:18:30.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2919597994822425
+[01Apr2025 19:18:30.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3699752807965524
+[01Apr2025 19:18:31.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6054516114536455
+[01Apr2025 19:18:31.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.36905699546798587
+[01Apr2025 19:18:31.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.29511585623026804
+[01Apr2025 19:18:31.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.36804753380829425
+[01Apr2025 19:18:31.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6098769184117145
+[01Apr2025 19:18:31.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.36752477959964835
+[01Apr2025 19:18:31.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2978337631184331
+[01Apr2025 19:18:31.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.36687432832468403
+[01Apr2025 19:18:31.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2981644058791062
+[01Apr2025 19:18:31.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.36632581746778214
+[01Apr2025 19:18:31.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.29846198435586757
+[01Apr2025 19:18:31.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3663644383634619
+[01Apr2025 19:18:31.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.30030308820312257
+[01Apr2025 19:18:31.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7522749042020678
+[01Apr2025 19:18:31.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3003867983965165
+[01Apr2025 19:18:31.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 1.1390972776797526
+[01Apr2025 19:18:31.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3004644360726161
+[01Apr2025 19:18:31.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.36793650841593717
+[01Apr2025 19:18:31.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3021073771377587
+[01Apr2025 19:18:31.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7555984172428225
+[01Apr2025 19:18:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3020129568988068
+[01Apr2025 19:18:31.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3696569254963151
+[01Apr2025 19:18:31.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.301927978685967
+[01Apr2025 19:18:31.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37007777320343394
+[01Apr2025 19:18:31.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3034245654548613
+[01Apr2025 19:18:31.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7599811938109724
+[01Apr2025 19:18:31.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6272388314029058
+[01Apr2025 19:18:31.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3718596192378527
+[01Apr2025 19:18:31.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.30441066157129626
+[01Apr2025 19:18:31.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7635929157620467
+[01Apr2025 19:18:31.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.30565897999247227
+[01Apr2025 19:18:31.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37347430610986976
+[01Apr2025 19:18:31.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.30715823284890575
+[01Apr2025 19:18:31.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37417935228359056
+[01Apr2025 19:18:31.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3073361912784094
+[01Apr2025 19:18:31.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3745425436777623
+[01Apr2025 19:18:31.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3092822766561767
+[01Apr2025 19:18:31.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37518201248337846
+[01Apr2025 19:18:31.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6405020606077869
+[01Apr2025 19:18:31.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37557065148018864
+[01Apr2025 19:18:32.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.31340550238178366
+[01Apr2025 19:18:32.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37552563892859325
+[01Apr2025 19:18:32.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6485188329208995
+[01Apr2025 19:18:32.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3760163763814717
+[01Apr2025 19:18:32.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3197744499077544
+[01Apr2025 19:18:32.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37615067382546385
+[01Apr2025 19:18:32.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6631968883140189
+[01Apr2025 19:18:32.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3757993907788659
+[01Apr2025 19:18:32.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.32762234832466675
+[01Apr2025 19:18:32.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3761836614019103
+[01Apr2025 19:18:32.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6785162800679245
+[01Apr2025 19:18:32.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3761426559077563
+[01Apr2025 19:18:32.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3362749135841341
+[01Apr2025 19:18:32.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6960416438430457
+[01Apr2025 19:18:32.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37558381916676353
+[01Apr2025 19:18:32.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3759092849937815
+[01Apr2025 19:18:32.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.34444598874642907
+[01Apr2025 19:18:32.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37576194569771815
+[01Apr2025 19:18:32.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3480371780481164
+[01Apr2025 19:18:32.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.7704326801117531
+[01Apr2025 19:18:32.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.35125623216958957
+[01Apr2025 19:18:32.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3760140421896949
+[01Apr2025 19:18:32.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.7241195232699056
+[01Apr2025 19:18:32.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.376072029513125
+[01Apr2025 19:18:32.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3565267515407413
+[01Apr2025 19:18:32.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3761036470498311
+[01Apr2025 19:18:32.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6945393141662635
+[01Apr2025 19:18:32.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37651948459438245
+[01Apr2025 19:18:32.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2851685258673342
+[01Apr2025 19:18:32.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3766572420453258
+[01Apr2025 19:18:32.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.5589586870880794
+[01Apr2025 19:18:32.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37675116810567033
+[01Apr2025 19:18:32.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3771405606893268
+[01Apr2025 19:18:32.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.44913838497325287
+[01Apr2025 19:18:32.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3772967401163214
+[01Apr2025 19:18:32.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3774036026208023
+[01Apr2025 19:18:32.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3777461434956422
+[01Apr2025 19:18:33.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37789261111481665
+[01Apr2025 19:18:33.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37791216289485874
+[01Apr2025 19:18:33.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37817034246916137
+[01Apr2025 19:18:33.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3781039730508837
+[01Apr2025 19:18:33.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37780235747698043
+[01Apr2025 19:18:33.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3778673046321046
+[01Apr2025 19:18:33.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.37732715507331704
+[01Apr2025 19:18:33.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.5265637253621662
+[01Apr2025 19:18:33.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3425266195012
+[01Apr2025 19:18:33.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.27080784152849446
+[01Apr2025 19:18:33.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.3112640209452593
+[01Apr2025 19:18:33.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.570524435983998
+[01Apr2025 19:18:33.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.2829973965500585
+[01Apr2025 19:18:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2891849183005206
+[01Apr2025 19:18:33.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.2574628073068652
+[01Apr2025 19:18:33.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6049618798608662
+[01Apr2025 19:18:33.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chest Boat (vehicle of slayer_np) moved wrongly! 0.5107496010488148
+[01Apr2025 19:18:33.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.30392017617873535
+[01Apr2025 19:18:33.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6332688099057577
+[01Apr2025 19:18:33.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.31565971746783816
+[01Apr2025 19:18:33.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6551044024859038
+[01Apr2025 19:18:33.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.325079208067109
+[01Apr2025 19:18:33.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3286828666017527
+[01Apr2025 19:18:33.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3316464047966292
+[01Apr2025 19:18:33.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6842686233758286
+[01Apr2025 19:18:34.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.3354603047545197
+[01Apr2025 19:18:34.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.6907428364053203
+[01Apr2025 19:18:34.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.300711497578277
+[01Apr2025 19:18:34.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.5884903329682629
+[01Apr2025 19:18:34.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.47305901686888774
+[01Apr2025 19:18:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> -1409 73 -6594
+[01Apr2025 19:19:02.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:19:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[01Apr2025 19:19:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]
+[01Apr2025 19:19:25.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:19:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:19:35.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:19:47.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:19:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:19:53.933] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=645, y=69, z=-1141}
+[01Apr2025 19:19:57.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[01Apr2025 19:19:57.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -8.987468930430623,-6.3775971170798584E-9,4.755083769506086
+[01Apr2025 19:19:57.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -9.321804853395292,-6.415810105409037E-9,4.965927595129415
+[01Apr2025 19:19:57.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slayer_np moved too quickly! -6.8660832461594055,2.024424088213692,-7.028066412607245
+[01Apr2025 19:19:57.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -9.657540856930723,-6.447415046295646E-9,5.175349549355133
+[01Apr2025 19:19:57.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -9.994965628177965,-6.471474023328483E-9,5.382712224130728
+[01Apr2025 19:19:57.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -10.33459152671196,-6.487901771379256E-9,5.586890167813294
+[01Apr2025 19:19:57.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -10.67704953074906,-6.497252513781859E-9,5.786339469209224
+[01Apr2025 19:19:57.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -11.022739226954286,-6.500535221221071E-9,5.979823709330276
+[01Apr2025 19:19:57.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -11.372095002442506,-6.4989933434844716E-9,6.165710283177077
+[01Apr2025 19:19:57.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -11.72548271577648,-6.49396270091529E-9,6.342037704706968
+[01Apr2025 19:19:57.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -12.083100956470275,-6.486722270437895E-9,6.506586424455122
+[01Apr2025 19:19:57.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -12.444893169471925,-6.478423131284217E-9,6.65694551232923
+[01Apr2025 19:19:57.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -12.810470888055534,-6.470010305292817E-9,6.790589472600118
+[01Apr2025 19:19:57.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -13.179052239293242,-6.4622014406268136E-9,6.904961883206511
+[01Apr2025 19:19:57.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -13.549417104299778,-6.455486811773881E-9,6.997561576681619
+[01Apr2025 19:19:57.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -13.919884293670066,-6.450143530400965E-9,7.066045051370111
+[01Apr2025 19:19:57.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -14.288639290213723,-6.446271072491072E-9,7.108932625590342
+[01Apr2025 19:19:57.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -14.653881591605227,-6.443812594625342E-9,7.125465120142053
+[01Apr2025 19:19:57.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -15.013919995080869,-6.442618882829265E-9,7.1154639276639955
+[01Apr2025 19:19:57.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -15.367234606801958,-6.442476774282113E-9,7.079210731912326
+[01Apr2025 19:19:57.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -15.712509149285324,-6.4431304735990125E-9,7.017339404125778
+[01Apr2025 19:19:57.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -16.048640852845665,-6.4443241853950894E-9,6.930742092319974
+[01Apr2025 19:19:57.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved too quickly! -16.37474022906929,-6.445830535994901E-9,6.820494400448524
+[01Apr2025 19:20:00.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:20:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:20:03.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:20:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:20:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:21:23.053] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45533, l='ServerLevel[world]', x=336.50, y=71.00, z=-861.50]
+[01Apr2025 19:21:45.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.44197051408298194
+[01Apr2025 19:21:46.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.4351295325301976
+[01Apr2025 19:21:46.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.5500463753982672
+[01Apr2025 19:21:46.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.2632351128366963
+[01Apr2025 19:21:46.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.5434617399120043
+[01Apr2025 19:21:46.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of edinson123pro) moved wrongly! 0.8370025702993189
+[01Apr2025 19:21:48.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45700, l='ServerLevel[world]', x=317.50, y=72.00, z=-843.50]
+[01Apr2025 19:22:17.931] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=43, y=71, z=-597}
+[01Apr2025 19:22:18.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=43, y=71, z=-597} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[01Apr2025 19:22:18.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=43, y=71, z=-597}
+[01Apr2025 19:22:25.113] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:25.123] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:22:36.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to edinson123pro]
+[01Apr2025 19:22:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:22:45.361] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:45.372] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:22:49.463] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:49.472] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:22:50.462] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:50.470] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:22:51.762] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:51.773] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:22:54.262] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:54.273] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:22:59.012] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:22:59.025] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:23:09.910] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:23:09.921] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:23:14.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to edinson123pro]
+[01Apr2025 19:23:19.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to edinson123pro]
+[01Apr2025 19:23:26.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has made the advancement [You Are A Pirate]
+[01Apr2025 19:23:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:23:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [You Are A Pirate]
+[01Apr2025 19:23:42.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[01Apr2025 19:24:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:24:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <slayer_np> -1409 73 -6594
+[01Apr2025 19:24:52.007] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47410, l='ServerLevel[world]', x=164.50, y=50.00, z=-865.50]
+[01Apr2025 19:25:24.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported slayer_np to 1409.500000, 73.000000, -6593.500000]
+[01Apr2025 19:25:24.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8768ms or 175 ticks behind
+[01Apr2025 19:25:29.707] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
+[01Apr2025 19:25:29.709] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[01Apr2025 19:25:32.747] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[01Apr2025 19:25:33.513] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:25:33.525] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:25:35.567] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
+[01Apr2025 19:25:35.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[01Apr2025 19:25:35.618] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[01Apr2025 19:25:35.620] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[01Apr2025 19:25:35.634] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[01Apr2025 19:25:35.634] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-330}
+[01Apr2025 19:25:35.636] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[01Apr2025 19:25:35.636] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[01Apr2025 19:25:35.636] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[01Apr2025 19:25:35.821] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-334}
+[01Apr2025 19:25:35.822] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[01Apr2025 19:25:37.694] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[01Apr2025 19:25:37.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
+[01Apr2025 19:25:39.142] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[01Apr2025 19:25:39.157] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
+[01Apr2025 19:25:39.158] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
+[01Apr2025 19:25:42.537] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
+[01Apr2025 19:25:42.704] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[01Apr2025 19:25:42.704] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
+[01Apr2025 19:25:42.705] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
+[01Apr2025 19:25:42.705] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[01Apr2025 19:25:45.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[01Apr2025 19:25:45.163] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
+[01Apr2025 19:25:45.192] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01Apr2025 19:25:45.192] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Apr2025 19:25:45.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Apr2025 19:25:45.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Apr2025 19:25:45.681] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01Apr2025 19:25:45.681] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01Apr2025 19:25:45.681] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01Apr2025 19:25:45.682] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01Apr2025 19:25:45.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
+[01Apr2025 19:25:45.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
+[01Apr2025 19:25:45.685] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
+[01Apr2025 19:25:45.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01Apr2025 19:25:45.694] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01Apr2025 19:25:45.694] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01Apr2025 19:25:45.694] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01Apr2025 19:25:45.698] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
+[01Apr2025 19:25:45.698] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
+[01Apr2025 19:25:45.710] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01Apr2025 19:25:45.710] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Apr2025 19:25:45.710] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Apr2025 19:25:45.711] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Apr2025 19:25:46.463] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
+[01Apr2025 19:25:46.463] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[01Apr2025 19:25:46.463] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
+[01Apr2025 19:25:46.619] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01Apr2025 19:25:46.619] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01Apr2025 19:25:46.620] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01Apr2025 19:25:46.620] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01Apr2025 19:25:46.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/48454, l='ServerLevel[world]', x=166.50, y=51.00, z=-874.50]
+[01Apr2025 19:25:48.812] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
+[01Apr2025 19:25:48.812] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[01Apr2025 19:25:48.812] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[01Apr2025 19:25:48.813] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[01Apr2025 19:25:48.813] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=27, z=-337}
+[01Apr2025 19:25:48.813] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[01Apr2025 19:25:51.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[01Apr2025 19:25:51.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[01Apr2025 19:25:51.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[01Apr2025 19:25:51.276] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[01Apr2025 19:25:51.285] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01Apr2025 19:25:51.285] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01Apr2025 19:25:51.285] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01Apr2025 19:25:51.285] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01Apr2025 19:25:51.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
+[01Apr2025 19:25:51.287] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[01Apr2025 19:26:00.694] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
+[01Apr2025 19:26:02.016] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-332}
+[01Apr2025 19:26:02.016] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-333}
+[01Apr2025 19:26:02.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-334}
+[01Apr2025 19:26:02.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-335}
+[01Apr2025 19:26:02.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
+[01Apr2025 19:26:05.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:26:05.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[01Apr2025 19:26:06.400] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[01Apr2025 19:26:06.400] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[01Apr2025 19:26:06.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[01Apr2025 19:26:06.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[01Apr2025 19:26:07.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[01Apr2025 19:26:09.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[01Apr2025 19:26:09.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
+[01Apr2025 19:26:09.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[01Apr2025 19:26:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[01Apr2025 19:26:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-415}
+[01Apr2025 19:26:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-417}
+[01Apr2025 19:26:09.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[01Apr2025 19:26:09.566] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[01Apr2025 19:26:09.566] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[01Apr2025 19:26:09.567] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[01Apr2025 19:26:09.567] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[01Apr2025 19:26:09.568] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[01Apr2025 19:26:09.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[01Apr2025 19:26:09.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[01Apr2025 19:26:09.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[01Apr2025 19:26:09.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[01Apr2025 19:26:10.489] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1285, y=70, z=-6677}
+[01Apr2025 19:26:11.754] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1285, y=70, z=-6677} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[01Apr2025 19:26:11.755] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=1285, y=70, z=-6677}
+[01Apr2025 19:26:15.256] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1567, y=35, z=-6592} but found not block entity block Block{minecraft:water}[level=6] at location
+[01Apr2025 19:26:15.260] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=6] but failed at location BlockPos{x=1567, y=35, z=-6592}
+[01Apr2025 19:26:15.994] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[01Apr2025 19:26:15.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[01Apr2025 19:26:15.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[01Apr2025 19:26:15.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[01Apr2025 19:26:17.978] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[01Apr2025 19:26:17.978] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[01Apr2025 19:26:18.019] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[01Apr2025 19:26:18.122] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[01Apr2025 19:26:18.255] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[01Apr2025 19:26:18.255] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[01Apr2025 19:26:18.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[01Apr2025 19:26:18.269] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[01Apr2025 19:26:18.427] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[01Apr2025 19:26:18.427] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[01Apr2025 19:26:18.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=26, z=-311}
+[01Apr2025 19:26:18.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-311}
+[01Apr2025 19:26:18.440] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[01Apr2025 19:26:18.440] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[01Apr2025 19:26:18.440] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[01Apr2025 19:26:18.467] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=28, z=-334}
+[01Apr2025 19:26:18.467] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=28, z=-335}
+[01Apr2025 19:26:18.467] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[01Apr2025 19:26:18.468] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[01Apr2025 19:26:18.468] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[01Apr2025 19:26:18.468] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[01Apr2025 19:26:18.468] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[01Apr2025 19:26:18.468] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-331}
+[01Apr2025 19:26:18.468] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-333}
+[01Apr2025 19:26:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Summoned new Notor]
+[01Apr2025 19:26:42.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48243, l='ServerLevel[world]', x=1359.75, y=70.00, z=-6565.33] died, message: 'Villager was slain by Zombie'
+[01Apr2025 19:26:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Teleported edinson123pro to slayer_np]
+[01Apr2025 19:27:03.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48126, l='ServerLevel[world]', x=1361.90, y=73.75, z=-6569.31] died, message: 'Villager was slain by Zombie Villager'
+[01Apr2025 19:27:10.230] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:27:10.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Killed edinson123pro]
+[01Apr2025 19:27:10.238] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:27:20.923] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:27:20.931] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:27:32.974] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[01Apr2025 19:27:32.982] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved
+[01Apr2025 19:27:41.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np was shot by Skeleton
+[01Apr2025 19:28:40.078] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:28:40.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48227, l='ServerLevel[world]', x=1394.50, y=76.00, z=-6514.50] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48293, l='ServerLevel[world]', x=1317.50, y=70.00, z=-6572.50] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/48391, l='ServerLevel[world]', x=1351.50, y=69.00, z=-6489.50] died, message: 'Nitwit was killed'
+[01Apr2025 19:28:40.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48392, l='ServerLevel[world]', x=1328.28, y=67.00, z=-6511.63] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48430, l='ServerLevel[world]', x=1310.80, y=64.00, z=-6522.30] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48459, l='ServerLevel[world]', x=1316.55, y=68.50, z=-6509.42] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48521, l='ServerLevel[world]', x=1352.30, y=72.75, z=-6494.15] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/48522, l='ServerLevel[world]', x=1347.50, y=69.00, z=-6493.50] died, message: 'Nitwit was killed'
+[01Apr2025 19:28:40.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48535, l='ServerLevel[world]', x=1332.72, y=67.00, z=-6495.37] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48538, l='ServerLevel[world]', x=1344.50, y=69.56, z=-6495.50] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48539, l='ServerLevel[world]', x=1344.50, y=69.00, z=-6493.50] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48563, l='ServerLevel[world]', x=1317.50, y=70.00, z=-6575.50] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48588, l='ServerLevel[world]', x=1296.66, y=64.94, z=-6531.42] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48648, l='ServerLevel[world]', x=1317.80, y=67.00, z=-6491.44] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48728, l='ServerLevel[world]', x=1290.66, y=62.94, z=-6549.42] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48836, l='ServerLevel[world]', x=1280.66, y=65.94, z=-6493.42] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/49063, l='ServerLevel[world]', x=1258.50, y=74.00, z=-6565.50] died, message: 'Nitwit was killed'
+[01Apr2025 19:28:40.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49189, l='ServerLevel[world]', x=1295.50, y=71.00, z=-6435.50] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49238, l='ServerLevel[world]', x=1365.34, y=65.94, z=-6435.58] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49247, l='ServerLevel[world]', x=1375.52, y=67.00, z=-6448.31] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.127] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49303, l='ServerLevel[world]', x=1393.57, y=69.94, z=-6427.43] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49327, l='ServerLevel[world]', x=1360.57, y=65.94, z=-6425.43] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49329, l='ServerLevel[world]', x=1352.57, y=65.94, z=-6425.43] died, message: 'Villager was killed'
+[01Apr2025 19:28:40.149] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[01Apr2025 19:28:40.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Killed 416 entities]
+[01Apr2025 19:28:40.306] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:28:40.306] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved
+[01Apr2025 19:28:46.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Disconnected
+[01Apr2025 19:28:46.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[01Apr2025 19:28:49.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:28:52.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slayer_np has reached the goal [Radiation Vibe]
+[01Apr2025 19:29:05.067] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 19:29:05.106] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 19:29:05.149] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 19:29:05.203] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 19:29:05.248] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 19:29:05.299] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 19:29:05.358] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 19:29:05.401] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 19:29:05.454] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 19:29:05.507] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 19:29:05.551] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 19:29:05.599] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 19:29:06.770] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 19:29:06.770] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 19:29:06.776] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 19:29:06.780] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 19:29:15.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.76.109.16:64332] logged in with entity id 53054 at (1422.2405820330712, 120.0, -6616.811512232405)
+[01Apr2025 19:29:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
+[01Apr2025 19:29:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Stunned to edinson123pro]
+[01Apr2025 19:29:26.111] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:29:26.119] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:29:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:29:34.229] [Server thread/WARN] [tombstone/]: The death event of the player slayer_np was canceled by another mod
+[01Apr2025 19:29:34.237] [Server thread/INFO] [tombstone/]: The player slayer_np has successfully been saved
+[01Apr2025 19:29:42.160] [Server thread/WARN] [tombstone/]: The death event of the player edinson123pro was canceled by another mod
+[01Apr2025 19:29:42.172] [Server thread/INFO] [tombstone/]: The player edinson123pro has successfully been saved
+[01Apr2025 19:29:44.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Spectator Mode]
+[01Apr2025 19:29:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Creative Mode]
+[01Apr2025 19:29:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was slain by Zombie
+[01Apr2025 19:29:57.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Set own game mode to Survival Mode]
+[01Apr2025 19:30:05.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Regeneration to edinson123pro]
+[01Apr2025 19:30:16.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [slayer_np: Applied effect Saturation to 2 targets]

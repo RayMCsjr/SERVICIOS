@@ -140,6 +140,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-03-28 19:28:01 +0000",
+      "minecraft:birch_forest": "2025-04-01 19:19:30 +0000",
+      "minecraft:savanna_plateau": "2025-04-01 19:26:08 +0000",
       "minecraft:beach": "2025-03-28 17:09:19 +0000",
       "minecraft:river": "2025-03-28 17:13:17 +0000",
       "minecraft:forest": "2025-03-28 16:58:38 +0000",
@@ -502,11 +504,90 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-04-01 19:23:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-04-01 18:54:49 +0000"
     },
     "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-04-01 18:59:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-04-01 18:58:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-01 19:28:40 +0000",
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
   },
   "aether:bronze_dungeon": {
     "criteria": {
@@ -519,6 +600,18 @@
       "coded_trigger": "2025-04-01 18:46:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-01 19:28:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

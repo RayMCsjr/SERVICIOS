@@ -278,7 +278,9 @@
       "cooked_porkchop": "2025-03-29 05:34:54 +0000",
       "cooked_mutton": "2025-03-28 17:44:37 +0000",
       "cooked_beef": "2025-03-28 17:51:15 +0000",
-      "bread": "2025-03-28 17:31:29 +0000"
+      "mutton": "2025-04-01 18:08:05 +0000",
+      "bread": "2025-03-28 17:31:29 +0000",
+      "golden_carrot": "2025-04-01 18:19:44 +0000"
     },
     "done": false
   },
@@ -393,6 +395,24 @@
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-03-29 05:33:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 18:07:22 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-04-01 18:07:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-04-01 18:04:49 +0000"
     },
     "done": true
   },

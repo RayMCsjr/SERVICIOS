@@ -416,9 +416,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-04-01 18:55:00 +0000"
+    },
+    "done": true
+  },
   "quark:throw_pickarang": {
     "criteria": {
       "throw_pickarang": "2025-04-01 18:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-01 18:49:44 +0000"
     },
     "done": true
   },
